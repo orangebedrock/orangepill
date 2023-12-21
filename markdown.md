@@ -1,20 +1,32 @@
-slide one
+Merry Christmas Everyone  
 
 
 
-slide two
+This bitcoin hardware wallet will help you safely store your magic internet money.  
 
 
 
-slide three
+I can demo for you how I interact with my Jade to create wallets, send and receive transactions, restore a wallet, etc.
 
 
 
-# Markdown Demo
+I'm also including some references to things that helped me along my journey down the bitcoin rabbit hole. 
 
 
 
-## External 1.1
+## Bitcoin
+
+
+
+## Lightning
+
+
+
+## Liquid
+
+
+
+## Bitcoin IOUs
 
 Content 1.1
 
@@ -22,25 +34,25 @@ Note: This will only appear in the speaker notes window.
 
 
 
-## External 1.2
+## Hot Wallets
 
 Content 1.2
 
 
 
-## External 2
+## Cold Wallets
 
 Content 2.1
 
 
 
-## External 3.1
+## Hardware Wallets
 
 Content 3.1
 
 
 
-## External 3.2
+## Something
 
 Content 3.2
 
