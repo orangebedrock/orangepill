@@ -52,3 +52,5 @@ Here are a few things that helped my journey of understanding down the bitcoin r
 - [FA Hayek on Bitcoin](https://youtu.be/9-uo-KfnkhI?si=uv4OQsNTCepWWTkl)
 - [Buckminster Fuller on Bitcoin](https://youtu.be/vz2Ycb6ECdQ?si=Z-ZgYxdg2G65ztzS)
 - [Debt Spiral](https://youtu.be/xG2Pt0mnoKs?si=LRfCzryojF1vJB7-)
+- [Mempool.Space](https://mempool.space)
+- [Block Explorer](https://blockstream.info)
