@@ -42,8 +42,6 @@ Along with this Jade is me volunteering to be your bitcoin help desk.
 
 
 
-Here are a few things that helped my journey of understanding down the bitcoin rabbit hole. 
-
 - [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf)
 - [How it Works](https://youtu.be/bBC-nXj3Ng4?si=kSotKrjZAoMwoQR4)
 - [SHA256](https://youtu.be/S9JGmA5_unY?si=Na8igP6aG2KfaHZM)
