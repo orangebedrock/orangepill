@@ -42,6 +42,7 @@ Along with this Jade is me volunteering to be your bitcoin help desk.
 
 
 
+- [How to setup Jade with Blockstream Green app](https://www.youtube.com/watch?v=7aacxnc6DHg&t=84s)
 - [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf)
 - [How it Works](https://youtu.be/bBC-nXj3Ng4?si=kSotKrjZAoMwoQR4)
 - [SHA256](https://youtu.be/S9JGmA5_unY?si=Na8igP6aG2KfaHZM)
